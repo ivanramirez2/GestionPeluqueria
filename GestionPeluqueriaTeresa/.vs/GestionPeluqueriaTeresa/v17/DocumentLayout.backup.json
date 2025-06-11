@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|c:\\users\\ivan.ramirez\\desktop\\peluqueriateresa\\gestionpeluqueria_vmaster\\gestionpeluqueriateresa_v3\\gestionpeluqueriateresa\\gestionpeluqueriateresa\\views\\frmeliminarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|solutionrelative:gestionpeluqueriateresa\\views\\frmeliminarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\gestionpeluqueriateresa\\views\\frmeliminarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|solutionrelative:gestionpeluqueriateresa\\views\\frmeliminarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\gestionpeluqueriateresa\\views\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|solutionrelative:gestionpeluqueriateresa\\views\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\gestionpeluqueriateresa\\views\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|solutionrelative:gestionpeluqueriateresa\\views\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\gestionpeluqueriateresa\\views\\frmcrearnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|solutionrelative:gestionpeluqueriateresa\\views\\frmcrearnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\gestionpeluqueriateresa\\views\\frmcrearnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|solutionrelative:gestionpeluqueriateresa\\views\\frmcrearnuevocliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\gestionpeluqueriateresa\\recuperacioncontrasena.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F820A4A4-8E37-414A-BD53-8BEF96155582}|GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa.vbproj|solutionrelative:gestionpeluqueriateresa\\recuperacioncontrasena.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEliminarCliente.vb",
+              "DocumentMoniker": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmEliminarCliente.vb",
+              "RelativeDocumentMoniker": "GestionPeluqueriaTeresa\\Views\\FrmEliminarCliente.vb",
+              "ToolTip": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmEliminarCliente.vb",
+              "RelativeToolTip": "GestionPeluqueriaTeresa\\Views\\FrmEliminarCliente.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T09:30:27.086Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEliminarCliente.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmEliminarCliente.vb",
+              "RelativeDocumentMoniker": "GestionPeluqueriaTeresa\\Views\\FrmEliminarCliente.vb",
+              "ToolTip": "E:\\PROYECTOS DEFINITIVOS\\TERESA\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmEliminarCliente.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T10:57:11.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCrearNuevoCliente.vb",
+              "DocumentMoniker": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmCrearNuevoCliente.vb",
+              "RelativeDocumentMoniker": "GestionPeluqueriaTeresa\\Views\\FrmCrearNuevoCliente.vb",
+              "ToolTip": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmCrearNuevoCliente.vb",
+              "RelativeToolTip": "GestionPeluqueriaTeresa\\Views\\FrmCrearNuevoCliente.vb",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T10:54:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCrearNuevoCliente.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmCrearNuevoCliente.vb",
+              "RelativeDocumentMoniker": "GestionPeluqueriaTeresa\\Views\\FrmCrearNuevoCliente.vb",
+              "ToolTip": "E:\\PROYECTOS DEFINITIVOS\\TERESA\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmCrearNuevoCliente.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T10:54:21.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.vb",
+              "DocumentMoniker": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmPrincipal.vb",
+              "RelativeDocumentMoniker": "GestionPeluqueriaTeresa\\Views\\FrmPrincipal.vb",
+              "ToolTip": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmPrincipal.vb",
+              "RelativeToolTip": "GestionPeluqueriaTeresa\\Views\\FrmPrincipal.vb",
+              "ViewState": "AgIAACwBAAAAAAAAAAAiwEkBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T10:46:16.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecuperacionContrasena.vb",
+              "DocumentMoniker": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\RecuperacionContrasena.vb",
+              "RelativeDocumentMoniker": "GestionPeluqueriaTeresa\\RecuperacionContrasena.vb",
+              "ToolTip": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\RecuperacionContrasena.vb",
+              "RelativeToolTip": "GestionPeluqueriaTeresa\\RecuperacionContrasena.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T10:40:18.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivan.ramirez\\Desktop\\PeluqueriaTeresa\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmPrincipal.vb",
+              "RelativeDocumentMoniker": "GestionPeluqueriaTeresa\\Views\\FrmPrincipal.vb",
+              "ToolTip": "E:\\PROYECTOS DEFINITIVOS\\TERESA\\GestionPeluqueria_vMASTER\\GestionPeluqueriaTeresa_v3\\GestionPeluqueriaTeresa\\GestionPeluqueriaTeresa\\Views\\FrmPrincipal.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-19T09:30:50.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestiónPeluqueriaTeresa\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrueba.resources
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrueba.resources
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+C:\Users\ivanc\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrueba.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrueba.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaCliente.resources
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrueba.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaCliente.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaEmpleado.resources
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.Fonts.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+E:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.dll
+D:\ProyectoTERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrueba.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaCliente.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmActivarUsuario.resources
+C:\Users\ivan.ramirez.torres_\Desktop\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelEmpleado.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmActivarUsuario.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelEmpleado.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaCliente.resources
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivanc\Desktop\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrincipal.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmActivarUsuario.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelEmpleado.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrincipal.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaCliente.resources
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\raul7\Downloads\GestionPeluqueriaTeresa_vMASTER (2)\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.Fonts.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmActivarUsuario.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelEmpleado.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrincipal.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaCliente.resources
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+E:\PROYECTOS DEFINITIVOS\TERESA\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe.config
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.pdb
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\ZstdSharp.dll
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.pdb
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Google.Protobuf.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\MySql.Data.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Buffers.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Memory.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.AssemblyReference.cache
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.Resources.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmActivarUsuario.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmAgregarEmpleado.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConfirmarCita.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmConsultasClientes.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmCrearNuevoCliente.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarCliente.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEditarEmpleado.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarCliente.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmEliminarEmpleado.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelAdministrador.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPanelEmpleado.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmPrincipal.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.FrmVentanaCliente.resources
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.GenerateResource.cache
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.vbproj.CoreCompileInputs.cache
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionP.3746BB2F.Up2Date
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.exe
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.xml
+C:\Users\ivan.ramirez\Desktop\PeluqueriaTeresa\GestionPeluqueria_vMASTER\GestionPeluqueriaTeresa_v3\GestionPeluqueriaTeresa\GestionPeluqueriaTeresa\obj\Debug\GestionPeluqueriaTeresa.pdb
